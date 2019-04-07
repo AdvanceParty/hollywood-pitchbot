@@ -1,0 +1,12 @@
+{
+  "name": "pitchbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Advance Party <advanceparty@theroyals.com.au> (https://www.theroyals.com.au)",
+  "license": "MIT"
+}
